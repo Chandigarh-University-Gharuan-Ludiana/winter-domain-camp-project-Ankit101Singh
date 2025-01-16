@@ -37,11 +37,3 @@ This project aims to develop an intelligent traffic signal controller (ITSC) usi
 
 This is a simplified example. A real-world ITSC deployment requires extensive planning, engineering expertise, adherence to safety regulations, and collaboration with relevant authorities.
 
-## Contributing
-
-If you're interested in contributing to this project, please:
-
-* Fork the repository
-* Create a new branch for your changes
-* Submit a pull request with a clear description of your modifications
-
